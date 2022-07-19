@@ -1,4 +1,3 @@
-fourth-branch
-# fourth-branch
-main
-Resolving merge conflicts practice 
+# third-branch
+
+Resolving merge conflicts practice

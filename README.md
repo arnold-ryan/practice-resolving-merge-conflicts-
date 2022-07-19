@@ -1,2 +1,2 @@
-# practice-resolving-merge-conflicts-
+# first-branch
 Resolving merge conflicts practice 

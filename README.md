@@ -1,2 +1,2 @@
-# second-branch
+# third-branch
 Resolving merge conflicts practice 
